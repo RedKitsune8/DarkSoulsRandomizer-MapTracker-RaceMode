@@ -1,0 +1,21 @@
+﻿{
+  "tracker_broadcast": {
+    "type": "array",
+    "background": "#28ff00",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "layout",
+            "key": "item_grid"
+          }
+        ]
+      }
+    ]
+  }
+}

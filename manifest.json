@@ -1,0 +1,28 @@
+﻿{
+  "name": "Dark Souls Randomizer",
+  "game_name": "Dark Souls",
+  "package_version": "0.7",
+  "package_uid": "ds_kitsune",
+  "platform": "PC", //enables SNES memory autotracking interface - remove/change if not needed
+  "author": "RedKitsune",
+  "variants": {
+    "standard": {
+      "display_name": "Map Tracker + Boss Tracker",
+      "flags": [
+        "ap" //enables AP autotracking interface - remove if not needed
+      ]
+    },
+    "map_only": {
+      "display_name": "Map Tracker",
+      "flags": [
+        "ap" //enables AP autotracking interface - remove if not needed
+      ]
+    },
+    "var_itemsonly": {
+     "display_name": "Items Only",
+     "flags": [
+       "ap" //enables AP autotracking interface - remove if not needed
+     ]
+    }
+  }
+}

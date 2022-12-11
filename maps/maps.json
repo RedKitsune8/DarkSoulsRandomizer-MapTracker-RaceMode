@@ -1,0 +1,92 @@
+[
+  {
+    "name": "UA",
+    "location_size": 4,
+    "location_border_thickness": 1,
+    "img": "images/maps/UA.png"
+  },
+  {
+    "name": "FL",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/maps/FL.png"
+  },
+  {
+    "name": "UB",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/maps/UB.png"
+  },
+  {
+    "name": "UP",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/maps/UP.png"
+  },
+  {
+    "name": "DF",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/maps/DF.png"
+  },
+  {
+    "name": "De",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/maps/De.png"
+  },
+  {
+    "name": "DR",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/maps/DR.png"
+  },
+  {
+    "name": "SF",
+    "location_size": 4,
+    "location_border_thickness": 1,
+    "img": "images/maps/SF.png"
+  },
+  {
+    "name": "NL",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/maps/NL.png"
+  },
+  {
+    "name": "AL",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/maps/AL.png"
+  },
+  {
+    "name": "Ca",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/maps/Ca.png"
+  },
+  {
+    "name": "TotG",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/maps/TotG.png"
+  },
+  {
+    "name": "DA",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/maps/DA.png"
+  },
+  {
+    "name": "AotA",
+    "location_size": 40,
+    "location_border_thickness": 10,
+    "img": "images/maps/AotA.png"
+  },
+  {
+    "name": "DS",
+    "location_size": 12,
+    "location_border_thickness": 3,
+    "img": "images/maps/DS.png"
+  }
+]

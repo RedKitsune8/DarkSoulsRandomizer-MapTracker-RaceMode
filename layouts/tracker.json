@@ -1,0 +1,384 @@
+﻿{
+  "tracker_default": {
+    "type": "container",
+    "background": "#000000",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "left",
+          "content": [
+            {
+              "type": "group",
+              "header": "Items",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "item_grid"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Path Bosses",
+              "dock": "top",
+              "margin": "0,0,-3000,0",
+              "content": {
+                "type": "layout",
+                "h_alignment": "center",
+                "v_alignment": "center",
+                "key": "boss_path_grid"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Item Bosses",
+              "dock": "top",
+              "margin": "0,-100",
+              "content": {
+                "type": "layout",
+                "h_alignment": "center",
+                "v_alignment": "center",
+                "key": "boss_grid"
+              }
+            }      
+          ]
+        },
+        {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Firelink",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "FL"
+                ]
+              }
+            },
+            {
+              "title": "Undead Asylum",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "UA"
+                ]
+              }
+            },
+            {
+              "title": "Undead Burg",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "UB"
+                ]
+              }
+            },
+            {
+              "title": "Undead Parish",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "UP"
+                ]
+              }
+            },
+            {
+              "title": "Darkroot Forest",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "DF"
+                ]
+              }
+            },
+            {
+              "title": "Depths and Blighttown",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "De"
+                ]
+              }
+            },
+            {
+              "title": "Demon Ruins and Lost Izalith",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "DR"
+                ]
+              }
+            },
+            {
+              "title": "Sen's fortress",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "SF"
+                ]
+              }
+            },
+            {
+              "title": "New Londo",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "NL"
+                ]
+              }
+            },
+            {
+              "title": "Catacombs",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Ca"
+                ]
+              }
+            },
+            {
+              "title": "Tomb of the Giants",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "TotG"
+                ]
+              }
+            },
+            {
+              "title": "Anor Londo and Painted World",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "AL"
+                ]
+              }
+            },
+            {
+              "title": "Duke's Archives",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "DA"
+                ]
+              }
+            },
+            {
+              "title": "Oolacile",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "AotA"
+                ]
+              }
+            }
+            //,
+            //{
+            //  "title": "All",
+            //  "content": {
+            //    "type": "map",
+            //    "maps": [
+            //      "DS"
+            //    ]
+            //  }
+            //}
+          ]
+        }
+      ]
+    }
+  },
+  "tracker_horizontal": {
+    "type": "container",
+    "background": "#000000",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "left",
+          "content": [
+            {
+              "type": "group",
+              "header": "Items",
+              "dock": "top",
+              "margin": "0,0,3,0",
+              "content": {
+                "type": "layout",
+                "h_alignment": "center",
+                "v_alignment": "center",
+                "key": "item_grid"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Path Bosses",
+              "dock": "top",
+              "margin": "0,0,3,0",
+              "content": {
+                "type": "layout",
+                "h_alignment": "stretch",
+                "v_alignment": "stretch",
+                "key": "boss_path_grid"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Bosses",
+              "dock": "top",
+              "margin": "0,0,3,0",
+              "content": {
+                "type": "layout",
+                "h_alignment": "stretch",
+                "v_alignment": "stretch",
+                "key": "boss_grid"
+              }
+            }                  
+          ]
+        },
+        {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Firelink",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "FL"
+                ]
+              }
+            },
+            {
+              "title": "Undead Asylum",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "UA"
+                ]
+              }
+            },
+            {
+              "title": "Undead Burg",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "UB"
+                ]
+              }
+            },
+            {
+              "title": "Undead Parish",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "UP"
+                ]
+              }
+            },
+            {
+              "title": "Darkroot Forest",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "DF"
+                ]
+              }
+            },
+            {
+              "title": "Depths and Blighttown",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "De"
+                ]
+              }
+            },
+            {
+              "title": "Demon Ruins and Lost Izalith",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "DR"
+                ]
+              }
+            },
+            {
+              "title": "Sen's fortress",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "SF"
+                ]
+              }
+            },
+            {
+              "title": "New Londo",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "NL"
+                ]
+              }
+            },
+            {
+              "title": "Catacombs",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Ca"
+                ]
+              }
+            },
+            {
+              "title": "Tomb of the Giants",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "TotG"
+                ]
+              }
+            },
+            {
+              "title": "Anor Londo and Painted World",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "AL"
+                ]
+              }
+            },
+            {
+              "title": "Duke's Archives",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "DA"
+                ]
+              }
+            },
+            {
+              "title": "Oolacile",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "AotA"
+                ]
+              }
+            },
+            {
+              "title": "All",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "DS"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

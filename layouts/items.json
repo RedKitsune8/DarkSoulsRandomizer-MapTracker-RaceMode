@@ -1,0 +1,260 @@
+{
+    "item_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2,0",
+                        "h_alignment": "center",
+                        "item_size": 80,
+                        "rows": [
+                            [
+                                "lord_soul_shard_four_kings",
+                                "lord_soul_bed_of_chaos",
+                                "lord_soul_nito",
+                                "lord_soul_shard_seath",
+                                "lordvessel"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2,0",
+                        "h_alignment": "center",
+                        "item_size": 55,
+                        "rows": [
+                            [
+                            "watchtower_basement_key",
+                            "basement_key",
+                            "key_to_depths",
+                            "blighttown_key",
+                            "crest_of_artorias",
+                            "peculiar_doll",
+                            "broken_pendant"
+                        ]
+                    ]
+                },
+                {
+                    "type": "itemgrid",
+                    "item_margin": "2,0",
+                    "h_alignment": "center",
+                    "item_size": 55,
+                    "rows": [
+                        [
+                            "residence_key",
+                            "key_to_new_londo_ruins",
+                            "key_to_the_seal",
+                            "covenant_of_artorias",
+                            "orange_charred_ring",
+                            "annex_key",
+                            "crest_key"
+                        ]
+                    ]
+                },
+                {
+                    "type": "itemgrid",
+                    "item_margin": "2,0",
+                    "h_alignment": "center",
+                    "item_size": 55,
+                    "rows": [
+                        [
+                            "Master_Key",
+                            "archive_tower_giant_door_key",
+                            "archive_tower_giant_cell_key",
+                            "darkmoon_seance_ring",
+                            "cage_key",
+                            "undead_asylum_f2_west_key",
+                            "cast_light"
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+    },
+    "boss_path_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10,-5",
+                        "h_alignment": "center",
+                        "item_size": "200, 40",
+                        "rows": [
+                            [
+                                "AsylumDemon",
+                                "TaurusDemon"   
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10,-5",
+                        "h_alignment": "center",
+                        "item_size": "200, 40",
+                        "rows": [
+                            [
+                                "BellGargoyles",
+                                "Quelaag"   
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10,-5",
+                        "h_alignment": "center",
+                        "item_size": "200, 40",
+                        "rows": [
+                            [                
+                            "IronGolem", "CeaselessDischarge"
+                            ]
+                    ]
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10,-5",
+                        "h_alignment": "center",
+                        "item_size": "200, 40",
+                        "rows": [
+                            [
+                            "CentipedeDemon", "DemonFiresage"           
+                            ]
+                    ]
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10,-5",
+                        "h_alignment": "center",
+                        "item_size": "200, 40",
+                        "v_alignment": "stretch",
+                        "rows": [
+                            [
+                            "Pinwheel", "StrayDemon"        
+                            ]
+                    ]
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10,-5",
+                        "h_alignment": "center",
+                        "item_size": "200, 40",
+                        "v_alignment": "stretch",
+                        "rows": [
+                            [
+                            "SG", "Artorias"        
+                            ]
+                    ]
+                    }
+                
+            ]
+        }
+    ]
+},
+"boss_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,10",
+    "content": [
+        {
+            "type": "array",
+            "orientation": "vertical",
+            "margin": "0,-10",
+            "content": [
+                {
+                    "type": "itemgrid",
+                    "item_margin": "10,-7",
+                    "h_alignment": "center",
+                    "item_size": "200, 40",
+                    "rows": [
+                        [
+                            "CapraDemon",
+                            "GapingDragon"   
+                        ]
+                    ]
+                },
+                {
+                    "type": "itemgrid",
+                    "item_margin": "10,-7",
+                    "h_alignment": "center",
+                    "item_size": "200, 40",
+                    "rows": [
+                        [
+                            "Butterfly" , "GreatGreyWolfSif"  
+                        ]
+                    ]
+                },
+                {
+                    "type": "itemgrid",
+                    "item_margin": "10,-7",
+                    "h_alignment": "center",
+                    "item_size": "200, 40",
+                    "rows": [
+                        [                
+                        "DarkSunGwyndolin","CrossbreedPriscilla"   
+                        ]
+                ]
+                },
+                {
+                    "type": "itemgrid",
+                    "item_margin": "10,-7",
+                    "h_alignment": "center",
+                    "item_size": "200, 50",
+                    "rows": [
+                        [
+                        "GravelordNito", "Seath"         
+                        ]
+                ]
+                },
+                {
+                    "type": "itemgrid",
+                    "item_margin": "10,-20",
+                    "h_alignment": "center",
+                    "item_size": "200, 40",
+                    "rows": [
+                        [
+                        "BoC","FourKings"             
+                        ]
+                ]
+                },
+                {
+                    "type": "itemgrid",
+                    "item_margin": "10,5",
+                    "h_alignment": "center",
+                    "item_size": "200, 40",
+                    "rows": [
+                        [
+                        "Manus","Kalameet"             
+                        ]
+                ]
+                },
+                {
+                    "type": "itemgrid",
+                    "item_margin": "10,-30",
+                    "h_alignment": "center",
+                    "item_size": "400, 80",
+                    "rows": [
+                        [
+                        "OrnsteinSmough"            
+                        ]
+                ]
+                }
+            
+        ]
+    }
+]
+}
+}
