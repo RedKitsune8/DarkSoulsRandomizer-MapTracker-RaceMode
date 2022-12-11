@@ -4,6 +4,8 @@ This is a Dark Souls I Map Tracker for PopTracker. Designed around the HotPocket
 
 You can finde more information in https://github.com/HotPocketRemix/DarkSoulsItemRandomizer
 
+Some checks feel like _they should be in logic_ but they are not. Mainly, the connection between the forest and Blighttown is not considered in logic.
+
 ## Variants
 
 The tracker has three options:
