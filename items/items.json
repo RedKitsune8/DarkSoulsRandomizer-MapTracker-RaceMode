@@ -1,0 +1,533 @@
+[   
+    {
+        "type": "progressive",
+		"allow_disabled": false,
+        "name": "Asylum Demon",
+        "stages": [ 
+            {
+            "img": "images/bosses/AsylumDemon.png"
+            },
+            {
+            "img": "images/bosses/AsylumDemon2.png",
+            "codes": "AsylumDemon"
+            }
+            ]
+    },
+    {
+        "type": "progressive",
+		"allow_disabled": false,
+        "name": "Taurus Demon",
+        "stages": [ 
+            {
+            "img": "images/bosses/TaurusDemon.png"
+            },
+            {
+            "img": "images/bosses/TaurusDemon2.png",
+            "codes": "TaurusDemon"
+            }
+            ]
+    },
+    {
+        "type": "progressive",
+		"allow_disabled": false,
+        "name": "Bell Gargoyles",
+        "stages": [ 
+            {
+            "img": "images/bosses/BellGargoyles.png"
+            },
+            {
+            "img": "images/bosses/BellGargoyles2.png",
+            "codes": "BellGargoyles"
+            }
+            ]
+    },
+    {
+        "type": "progressive",
+		"allow_disabled": false,
+        "name": "Capra Demon",
+        "stages": [ 
+            {
+            "img": "images/bosses/CapraDemon.png"
+            },
+            {
+            "img": "images/bosses/CapraDemon2.png",
+            "codes": "CapraDemon"
+            }
+            ]
+    },
+    {
+        "type": "progressive",
+		"allow_disabled": false,
+        "name": "Ceaseless Discharge",
+        "stages": [ 
+            {
+            "img": "images/bosses/CeaselessDischarge.png"
+            },
+            {
+            "img": "images/bosses/CeaselessDischarge2.png",
+            "codes": "CeaselessDischarge"
+            }
+            ]
+    },
+    {
+        "type": "progressive",
+		"allow_disabled": false,
+        "name": "Centipede Demon",
+        "stages": [ 
+            {
+            "img": "images/bosses/CentipedeDemon.png"
+            },
+            {
+            "img": "images/bosses/CentipedeDemon2.png",
+            "codes": "CentipedeDemon"
+            }
+            ]
+    },
+    {
+        "type": "progressive",
+		"allow_disabled": false,
+        "name": "Crossbreed Priscilla",
+        "stages": [ 
+            {
+            "img": "images/bosses/CrossbreedPriscilla.png"
+            },
+            {
+            "img": "images/bosses/CrossbreedPriscilla2.png",
+            "codes": "CrossbreedPriscilla"
+            }
+            ]
+    },
+    {
+        "type": "progressive",
+		"allow_disabled": false,
+        "name": "Moonlight Butterfly",
+        "stages": [ 
+            {
+            "img": "images/bosses/MoonlightButterfly.png"
+            },
+            {
+            "img": "images/bosses/MoonlightButterfly2.png",
+            "codes": "Butterfly"
+            }
+            ]
+    },
+    {
+        "type": "progressive",
+		"allow_disabled": false,
+        "name": "Dark Sun Gwyndolin",
+        "stages": [ 
+            {
+            "img": "images/bosses/Gwyndolin.png"
+            },
+            {
+            "img": "images/bosses/Gwyndolin2.png",
+            "codes": "DarkSunGwyndolin"
+            }
+            ]
+    },
+    {
+        "type": "progressive",
+		"allow_disabled": false,
+        "name": "Demon Firesage",
+        "stages": [ 
+            {
+            "img": "images/bosses/DemonFiresage.png"
+            },
+            {
+            "img": "images/bosses/DemonFiresage2.png",
+            "codes": "DemonFiresage"
+            }
+            ]
+    },
+    {
+        "type": "progressive",
+		"allow_disabled": false,
+        "name": "Stray Demon",
+        "stages": [ 
+            {
+            "img": "images/bosses/StrayDemon.png"
+            },
+            {
+            "img": "images/bosses/StrayDemon2.png",
+            "codes": "StrayDemon"
+            }
+            ]
+    },
+    {
+        "type": "progressive",
+		"allow_disabled": false,
+        "name": "Quelaag",
+        "stages": [ 
+            {
+            "img": "images/bosses/Quelaag.png"
+            },
+            {
+            "img": "images/bosses/Quelaag2.png",
+            "codes": "Quelaag"
+            }
+            ]
+    },
+    {
+        "type": "progressive",
+		"allow_disabled": false,
+        "name": "Four Kings",
+        "stages": [ 
+            {
+            "img": "images/bosses/FourKings.png"
+            },
+            {
+            "img": "images/bosses/FourKings2.png",
+            "codes": "FourKings"
+            }
+            ]
+    },
+    {
+        "type": "progressive",
+		"allow_disabled": false,
+        "name": "Gravelord Nito",
+        "stages": [ 
+            {
+            "img": "images/bosses/GravelordNito.png"
+            },
+            {
+            "img": "images/bosses/GravelordNito2.png",
+            "codes": "GravelordNito"
+            }
+            ]
+    },
+    {
+        "type": "progressive",
+		"allow_disabled": false,
+        "name": "Seath the Scaleless",
+        "stages": [ 
+            {
+            "img": "images/bosses/Seath.png"
+            },
+            {
+            "img": "images/bosses/Seath2.png",
+            "codes": "Seath"
+            }
+            ]
+    },
+    {
+        "type": "progressive",
+		"allow_disabled": false,
+        "name": "Bed of Chaos",
+        "stages": [ 
+            {
+            "img": "images/bosses/BoC.png"
+            },
+            {
+            "img": "images/bosses/BoC2.png",
+            "codes": "BoC"
+            }
+            ]
+    },
+    {
+        "type": "progressive",
+		"allow_disabled": false,
+        "name": "Sanctuary Guardian",
+        "stages": [ 
+            {
+            "img": "images/bosses/SG.png"
+            },
+            {
+            "img": "images/bosses/SG2.png",
+            "codes": "SG"
+            }
+            ]
+    },
+    {
+        "type": "progressive",
+		"allow_disabled": false,
+        "name": "Abysswalker Artorias",
+        "stages": [ 
+            {
+            "img": "images/bosses/Artorias.png"
+            },
+            {
+            "img": "images/bosses/Artorias2.png",
+            "codes": "Artorias"
+            }
+            ]
+    },
+    {
+        "type": "progressive",
+		"allow_disabled": false,
+        "name": "Manus",
+        "stages": [ 
+            {
+            "img": "images/bosses/Manus.png"
+            },
+            {
+            "img": "images/bosses/Manus2.png",
+            "codes": "Manus"
+            }
+            ]
+    },
+    {
+        "type": "progressive",
+		"allow_disabled": false,
+        "name": "Kalameet",
+        "stages": [ 
+            {
+            "img": "images/bosses/Kalameet.png"
+            },
+            {
+            "img": "images/bosses/Kalameet2.png",
+            "codes": "Kalameet"
+            }
+            ]
+    },
+    {
+        "type": "progressive",
+		"allow_disabled": false,
+        "name": "Pinwheel",
+        "stages": [ 
+            {
+            "img": "images/bosses/Pinwheel.png"
+            },
+            {
+            "img": "images/bosses/Pinwheel2.png",
+            "codes": "Pinwheel"
+            }
+            ]
+    },
+    {
+        "type": "progressive",
+		"allow_disabled": false,
+        "name": "OrnsteinSmough",
+        "stages": [ 
+            {
+            "img": "images/bosses/OrnsteinSmough.png"
+            },
+            {
+            "img": "images/bosses/OrnsteinSmough2.png",
+            "codes": "OrnsteinSmough"
+            }
+            ]
+    },
+    {
+        "type": "progressive",
+		"allow_disabled": false,
+        "name": "Gaping Dragon",
+        "stages": [ 
+            {
+            "img": "images/bosses/GapingDragon.png"
+            },
+            {
+            "img": "images/bosses/GapingDragon2.png",
+            "codes": "GapingDragon"
+            }
+            ]
+    },
+    {
+        "type": "progressive",
+		"allow_disabled": false,
+        "name": "Grea Grey Wolf Sif",
+        "stages": [ 
+            {
+            "img": "images/bosses/GreatGreyWolfSif.png"
+            },
+            {
+            "img": "images/bosses/GreatGreyWolfSif2.png",
+            "codes": "GreatGreyWolfSif"
+            }
+            ]
+    },
+    {
+        "type": "progressive",
+		"allow_disabled": false,
+        "name": "Iron Golem",
+        "stages": [ 
+            {
+            "img": "images/bosses/IronGolem.png"
+            },
+            {
+            "img": "images/bosses/IronGolem2.png",
+            "codes": "IronGolem"
+            }
+        ]
+    },
+    {
+        "type": "toggle",
+        "name": "Master Key",
+        "codes": "master_key",
+        "hosted_item":["residence_key", "watchtower_basement_key", "mystery_key", "sewer_chamber_key", "key_to_new_londo_ruins","cage_key"],
+        "img": "images/items/Master_Key.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Undead Asylum f2 West Key",
+        "codes": "undead_asylum_f2_west_key",
+        "img": "images/items/Undead_Asylum_F2_West_Key.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Lord Soul Bed of Chaos",
+        "codes": "lord_soul_bed_of_chaos",
+        "img": "images/items/Lord_Soul_Bed_Chaos.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Lord Soul Four Kings",
+        "codes": "lord_soul_shard_four_kings",
+        "img": "images/items/Lord_Soul_Four_Kings.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Lord Soul Gravelord Nito",
+        "codes": "lord_soul_nito",
+        "img": "images/items/Lord_Soul_Nito.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Lord Soul Seath the Scaleless",
+        "codes": "lord_soul_shard_seath",
+        "img": "images/items/Lord_Soul_Seath.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Watchtower Basement Key",
+        "codes": "watchtower_basement_key",
+        "img": "images/items/Watchtower_Basement_Key.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Basement Key",
+        "codes": "basement_key",
+        "img": "images/items/basement_key.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Residence Key",
+        "codes": "residence_key",
+        "img": "images/items/residence_key.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Mystery Key",
+        "codes": "mystery_key",
+        "img": "images/items/mystery_key.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Church bell",
+        "codes": "Church_bell",
+        "img": "images/items/Church_bell.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Quelaag bell",
+        "codes": "Quelaag_bell",
+        "img": "images/items/Quelaag_bell.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Crest of Artorias",
+        "codes": "crest_of_artorias",
+        "img": "images/items/crest_of_artorias.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Broken Pendant",
+        "codes": "broken_pendant",
+        "img": "images/items/broken_pendant.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Key to depths",
+        "codes": "key_to_depths",
+        "img": "images/items/key_to_depths.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Blighttown Key",
+        "codes": "blighttown_key",
+        "img": "images/items/blighttown_key.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Sewer chamber Key",
+        "codes": "sewer_chamber_key",
+        "img": "images/items/sewer_chamber_key.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Lordvessel",
+        "codes": "lordvessel",
+        "img": "images/items/lordvessel.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Orange charred ring",
+        "codes": "orange_charred_ring",
+        "img": "images/items/orange_charred_ring.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Cage Key",
+        "codes": "cage_key",
+        "img": "images/items/cage_key.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Peculiar doll",
+        "codes": "peculiar_doll",
+        "img": "images/items/peculiar_doll.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Darkmoon seance ring",
+        "codes": "darkmoon_seance_ring",
+        "img": "images/items/darkmoon_seance_ring.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Key to New Londo ruins",
+        "codes": "key_to_new_londo_ruins",
+        "img": "images/items/key_to_new_londo_ruins.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Key to the seal",
+        "codes": "key_to_the_seal",
+        "img": "images/items/key_to_the_seal.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Covenant of Artorias",
+        "codes": "covenant_of_artorias",
+        "img": "images/items/covenant_of_artorias.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Annex Key",
+        "codes": "annex_key",
+        "img": "images/items/annex_key.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Archive tower giant door key",
+        "codes": "archive_tower_giant_door_key",
+        "img": "images/items/archive_tower_giant_door_key.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Archive tower giant cell key",
+        "codes": "archive_tower_giant_cell_key",
+        "img": "images/items/archive_tower_giant_cell_key.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Crest Key",
+        "codes": "crest_key",
+        "img": "images/items/crest_key.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Skull Lantern, Cast Light or the Sunlight Maggot",
+        "codes": "cast_light",
+        "img": "images/items/cast_light.png"
+    }
+]
