@@ -1,0 +1,16 @@
+ITEM_MAPPING = {
+    [100264] = {"banner", "toggle"},
+    [100280] = {"basin", "toggle"},
+    [100271] = {"doll", "toggle"},
+    [100298] = {"storm", "toggle"},
+    [100261] = {"towerkey", "toggle"},
+    [100263] = {"cellkey", "toggle"},
+    [100291] = {"jailbreaker", "toggle"},
+    [100296] = {"jailring", "toggle"},
+    [100295] = {"oldcell", "toggle"},
+    [100279] = {"archives", "toggle"},
+    [100276] = {"abyss", "toggle"},
+    [100277] = {"yhorm", "toggle"},
+    [100278] = {"aldrich", "toggle"},
+    [100281] = {"lothric", "toggle"},
+}
